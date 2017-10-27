@@ -20,6 +20,7 @@ public class CitySelectAction extends ActionSupport{
     // 用来存储所有大区的集合
     private List<Area> areaList;
     // 定义变量用来接受选择的是哪一个大区
+    // 添加了登录测试功能
     private int index;
     private List<Server> servers;
 
